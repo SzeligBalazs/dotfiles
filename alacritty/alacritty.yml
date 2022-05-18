@@ -1,0 +1,42 @@
+colors:
+  primary:
+    background: '#040D1C'
+    foreground: '#D9E0EE'
+ 
+  cursor:
+    text: '#D9E0EE'
+    cursor: '#D9E0EE'
+
+  normal:
+    black:   '#0f191e'
+    red:     '#fc5858'
+    green:   '#287fcc'
+    yellow:  '#ffc67c'
+    blue:    '#79d2fc'
+    magenta: '#fc49f6'
+    cyan:    '#49fccc'
+    white:   '0xD9E0EE'
+
+  bright:
+    black:   '#0d1828'
+    red:     '#ff9999'
+    green:   '#287fcc'
+    yellow:  '#fc9f25'
+    blue:    '#32bcfc'
+    magenta: '#ff87fb'
+    cyan:    '#92fce0'
+    white:   '0xD9E0EE'
+
+  indexed_colors:
+    - { index: 16, color: '0xF8BD96' }
+    - { index: 17, color: '0xF5E0DC' }
+window:
+  padding:
+    x: 8
+    y: 8
+  opacity: 0.8
+
+font:
+  normal:
+    family: mono
+    style: Bold
