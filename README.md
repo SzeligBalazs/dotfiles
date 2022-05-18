@@ -7,9 +7,9 @@ git clone https://github.com/SzeligBalazs/dotfiles.git
 ```
 ## Previews
 
-<img style="width: 65%;" src="previews/screenshot-1.png">
+<img style="width: 65%;" src="previews/first-screenshot.png">
 <br>
-<img style="width: 65%;" src="previews/screenshot-2.png">
+<img style="width: 65%;" src="previes/first-screenshot.png">
 
 
 ## You'll need:
