@@ -11,11 +11,6 @@ git clone https://github.com/SzeligBalazs/dotfiles.git
 <br>
 <img style="width: 65%;" src="previews/screenshot-2.png">
 
-## Previews
-
-<img style="width: 65%;" src="previews/screenshot-1.png">
-<br>
-<img style="width: 65%;" src="previews/screenshot-2.png">
 
 ## You'll need:
 
@@ -26,10 +21,6 @@ git clone https://github.com/SzeligBalazs/dotfiles.git
 - rofi
 - neovim
 
-<<<<<<< HEAD
-=======
-
->>>>>>> ac9f29f (Apple II theme)
 
 I hope you like it.
 ##### :D
