@@ -9,7 +9,7 @@ git clone https://github.com/SzeligBalazs/dotfiles.git
 
 <img style="width: 65%;" src="previews/first-screenshot.png">
 <br>
-<img style="width: 65%;" src="previes/first-screenshot.png">
+<img style="width: 65%;" src="previews/second-screenshot.png">
 
 
 ## You'll need:
