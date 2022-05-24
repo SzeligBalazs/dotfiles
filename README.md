@@ -20,7 +20,7 @@ git clone https://github.com/SzeligBalazs/dotfiles.git
 - polybar
 - rofi
 - neovim
-
+- picom
 
 I hope you like it.
 ##### :D
