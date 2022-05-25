@@ -12,8 +12,8 @@ I love retro (but modern) things. So I've come up with an idea: My Linux could l
 
 
 ## The dotfiles
-You can access the dotfiles on [this link](https://github.com/SzeligBalazs/dotfiles) or you can clone it directly with this command:
-```bash 
+You can clone the files directly with this command:
+```bash
 git clone https://github.com/SzeligBalazs/dotfiles.git
 ```
 
