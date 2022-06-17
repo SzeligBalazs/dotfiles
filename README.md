@@ -28,5 +28,3 @@ git clone https://github.com/SzeligBalazs/dotfiles.git
 - picom
 
 
-So how do you satisfied with my dotfiles? Let me know in the comments.
-And that was my first post on this site. Thank you for your attention! Bye!
